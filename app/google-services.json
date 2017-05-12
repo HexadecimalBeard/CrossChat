@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "453950363705",
+    "firebase_url": "https://crosschat-91c6e.firebaseio.com",
+    "project_id": "crosschat-91c6e",
+    "storage_bucket": "crosschat-91c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453950363705:android:dfd89499629eeddd",
+        "android_client_info": {
+          "package_name": "com.crosscode.crosschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453950363705-bejr5iltg3duonn1b49mk25rhrsm0iod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1EMX4bJbMQCn0wMfPNDpUBjQq_G1CMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

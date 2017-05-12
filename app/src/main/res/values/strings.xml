@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrossChat</string>
+    <string name="konus">Bir şeyler Söyle!</string>
+    <string name="ses_desteklenmiyor">Kullandığın cihaz sesli mesaj desteklemiyor! :(</string>
+</resources>
